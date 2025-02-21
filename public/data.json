@@ -1,1034 +1,1421 @@
 [
 	{
 		"iso": "100000",
-		"f": "",
+		"isoNominal": "102399.98653012",
+		"aperture": "f/256",
+		"apertureNominal": "256.00000000",
 		"shutter": "65536000",
+		"shutterNominal": "65536.00000000",
 		"nd": "",
-		"ev": "16.0",
-		"lux": "163840.00"
+		"luminance": "163840.0000000",
+		"ev": "16.000"
 	},
 	{
 		"iso": "80000",
-		"f": "",
+		"isoNominal": "81274.92316972",
+		"aperture": "f/230",
+		"apertureNominal": "228.07007184",
 		"shutter": "52015958",
+		"shutterNominal": "52015.95767089",
 		"nd": "",
-		"ev": "15.7",
-		"lux": "130039.89"
+		"luminance": "130039.8941772",
+		"ev": "15.667"
 	},
 	{
 		"iso": "70400",
-		"f": "",
+		"isoNominal": "72407.72486886",
+		"aperture": "f/220",
+		"apertureNominal": "215.26948230",
 		"shutter": "46340950",
+		"shutterNominal": "46340.95001184",
 		"nd": "",
-		"ev": "15.5",
-		"lux": "115852.38"
+		"luminance": "115852.3750296",
+		"ev": "15.500"
 	},
 	{
 		"iso": "64000",
-		"f": "",
+		"isoNominal": "64507.94926912",
+		"aperture": "f/200",
+		"apertureNominal": "203.18733465",
 		"shutter": "41285093",
+		"shutterNominal": "41285.09296296",
 		"nd": "",
-		"ev": "15.3",
-		"lux": "103212.73"
+		"luminance": "103212.7324074",
+		"ev": "15.333"
 	},
 	{
 		"iso": "50000",
-		"f": "",
+		"isoNominal": "51199.99326506",
+		"aperture": "f/180",
+		"apertureNominal": "181.01933598",
 		"shutter": "32768000",
+		"shutterNominal": "32768.00000000",
 		"nd": "",
-		"ev": "15.0",
-		"lux": "81920.00"
+		"luminance": "81920.0000000",
+		"ev": "15.000"
 	},
 	{
 		"iso": "40000",
-		"f": "",
+		"isoNominal": "40637.46158486",
+		"aperture": "f/160",
+		"apertureNominal": "161.26989439",
 		"shutter": "26007979",
+		"shutterNominal": "26007.97883545",
 		"nd": "",
-		"ev": "14.7",
-		"lux": "65019.95"
+		"luminance": "65019.9470886",
+		"ev": "14.667"
 	},
 	{
 		"iso": "35200",
-		"f": "",
+		"isoNominal": "36203.86243443",
+		"aperture": "f/152",
+		"apertureNominal": "152.21851072",
 		"shutter": "23170475",
+		"shutterNominal": "23170.47500592",
 		"nd": "",
-		"ev": "14.5",
-		"lux": "57926.19"
+		"luminance": "57926.1875148",
+		"ev": "14.500"
 	},
 	{
 		"iso": "32000",
-		"f": "",
+		"isoNominal": "32253.97463456",
+		"aperture": "f/144",
+		"apertureNominal": "143.67514218",
 		"shutter": "20642546",
+		"shutterNominal": "20642.54648148",
 		"nd": "",
-		"ev": "14.3",
-		"lux": "51606.37"
+		"luminance": "51606.3662037",
+		"ev": "14.333"
 	},
 	{
 		"iso": "25000",
-		"f": "",
+		"isoNominal": "25599.99663253",
+		"aperture": "f/128",
+		"apertureNominal": "128.00000000",
 		"shutter": "16384000",
+		"shutterNominal": "16384.00000000",
 		"nd": "",
-		"ev": "14.0",
-		"lux": "40960.00"
+		"luminance": "40960.0000000",
+		"ev": "14.000"
 	},
 	{
 		"iso": "20000",
-		"f": "",
+		"isoNominal": "20318.73079243",
+		"aperture": "f/115",
+		"apertureNominal": "114.03503592",
 		"shutter": "13003989",
+		"shutterNominal": "13003.98941772",
 		"nd": "",
-		"ev": "13.7",
-		"lux": "32509.97"
+		"luminance": "32509.9735443",
+		"ev": "13.667"
 	},
 	{
 		"iso": "17600",
-		"f": "",
+		"isoNominal": "18101.93121721",
+		"aperture": "f/110",
+		"apertureNominal": "107.63474115",
 		"shutter": "11585238",
+		"shutterNominal": "11585.23750296",
 		"nd": "",
-		"ev": "13.5",
-		"lux": "28963.09"
+		"luminance": "28963.0937574",
+		"ev": "13.500"
 	},
 	{
 		"iso": "16000",
-		"f": "",
+		"isoNominal": "16126.98731728",
+		"aperture": "f/100",
+		"apertureNominal": "101.59366733",
 		"shutter": "10321273",
+		"shutterNominal": "10321.27324074",
 		"nd": "",
-		"ev": "13.3",
-		"lux": "25803.18"
+		"luminance": "25803.1831018",
+		"ev": "13.333"
 	},
 	{
 		"iso": "12500",
-		"f": "",
+		"isoNominal": "12799.99831626",
+		"aperture": "f/90",
+		"apertureNominal": "90.50966799",
 		"shutter": "8192000",
+		"shutterNominal": "8192.00000000",
 		"nd": "",
-		"ev": "13.0",
-		"lux": "20480.00"
+		"luminance": "20480.0000000",
+		"ev": "13.000"
 	},
 	{
 		"iso": "10000",
-		"f": "",
+		"isoNominal": "10159.36539622",
+		"aperture": "f/80",
+		"apertureNominal": "80.63494719",
 		"shutter": "6501995",
+		"shutterNominal": "6501.99470886",
 		"nd": "",
-		"ev": "12.7",
-		"lux": "16254.99"
+		"luminance": "16254.9867722",
+		"ev": "12.667"
 	},
 	{
 		"iso": "8800",
-		"f": "",
+		"isoNominal": "9050.96560861",
+		"aperture": "f/76",
+		"apertureNominal": "76.10925536",
 		"shutter": "5792619",
+		"shutterNominal": "5792.61875148",
 		"nd": "",
-		"ev": "12.5",
-		"lux": "14481.55"
+		"luminance": "14481.5468787",
+		"ev": "12.500"
 	},
 	{
 		"iso": "8000",
-		"f": "",
+		"isoNominal": "8063.49365864",
+		"aperture": "f/72",
+		"apertureNominal": "71.83757109",
 		"shutter": "5160637",
+		"shutterNominal": "5160.63662037",
 		"nd": "",
-		"ev": "12.3",
-		"lux": "12901.59"
+		"luminance": "12901.5915509",
+		"ev": "12.333"
 	},
 	{
 		"iso": "6400",
-		"f": "",
+		"isoNominal": "6399.99915813",
+		"aperture": "f/64",
+		"apertureNominal": "64.00000000",
 		"shutter": "4096000",
+		"shutterNominal": "4096.00000000",
 		"nd": "",
-		"ev": "12.0",
-		"lux": "10240.00"
+		"luminance": "10240.0000000",
+		"ev": "12.000"
 	},
 	{
 		"iso": "5000",
-		"f": "",
+		"isoNominal": "5079.68269811",
+		"aperture": "f/60",
+		"apertureNominal": "57.01751796",
 		"shutter": "3250997",
+		"shutterNominal": "3250.99735443",
 		"nd": "",
-		"ev": "11.7",
-		"lux": "8127.49"
+		"luminance": "8127.4933861",
+		"ev": "11.667"
 	},
 	{
 		"iso": "4400",
-		"f": "",
+		"isoNominal": "4525.48280430",
+		"aperture": "f/55",
+		"apertureNominal": "53.81737058",
 		"shutter": "2896309",
+		"shutterNominal": "2896.30937574",
 		"nd": "",
-		"ev": "11.5",
-		"lux": "7240.77"
+		"luminance": "7240.7734394",
+		"ev": "11.500"
 	},
 	{
 		"iso": "4000",
-		"f": "",
+		"isoNominal": "4031.74682932",
+		"aperture": "f/50",
+		"apertureNominal": "50.79683366",
 		"shutter": "2580318",
+		"shutterNominal": "2580.31831018",
 		"nd": "",
-		"ev": "11.3",
-		"lux": "6450.80"
+		"luminance": "6450.7957755",
+		"ev": "11.333"
 	},
 	{
 		"iso": "3200",
-		"f": "",
+		"isoNominal": "3199.99957907",
+		"aperture": "f/45",
+		"apertureNominal": "45.25483400",
 		"shutter": "2048000",
+		"shutterNominal": "2048.00000000",
 		"nd": "",
-		"ev": "11.0",
-		"lux": "5120.00"
+		"luminance": "5120.0000000",
+		"ev": "11.000"
 	},
 	{
 		"iso": "2500",
-		"f": "",
+		"isoNominal": "2539.84134905",
+		"aperture": "f/40",
+		"apertureNominal": "40.31747360",
 		"shutter": "1625499",
+		"shutterNominal": "1625.49867722",
 		"nd": "",
-		"ev": "10.7",
-		"lux": "4063.75"
+		"luminance": "4063.7466930",
+		"ev": "10.667"
 	},
 	{
 		"iso": "2200",
-		"f": "",
+		"isoNominal": "2262.74140215",
+		"aperture": "f/38",
+		"apertureNominal": "38.05462768",
 		"shutter": "1448155",
+		"shutterNominal": "1448.15468787",
 		"nd": "",
-		"ev": "10.5",
-		"lux": "3620.39"
+		"luminance": "3620.3867197",
+		"ev": "10.500"
 	},
 	{
 		"iso": "2000",
-		"f": "",
+		"isoNominal": "2015.87341466",
+		"aperture": "f/36",
+		"apertureNominal": "35.91878555",
 		"shutter": "1290159",
+		"shutterNominal": "1290.15915509",
 		"nd": "",
-		"ev": "10.3",
-		"lux": "3225.40"
+		"luminance": "3225.3978877",
+		"ev": "10.333"
 	},
 	{
 		"iso": "1600",
-		"f": "",
+		"isoNominal": "1599.99978953",
+		"aperture": "f/32",
+		"apertureNominal": "32.00000000",
 		"shutter": "1024000",
+		"shutterNominal": "1024.00000000",
 		"nd": "",
-		"ev": "10.0",
-		"lux": "2560.00"
+		"luminance": "2560.0000000",
+		"ev": "10.000"
 	},
 	{
 		"iso": "1250",
-		"f": "",
+		"isoNominal": "1269.92067453",
+		"aperture": "f/28",
+		"apertureNominal": "28.50875898",
 		"shutter": "812749",
+		"shutterNominal": "812.74933861",
 		"nd": "",
-		"ev": "9.7",
-		"lux": "2031.87"
+		"luminance": "2031.8733465",
+		"ev": "9.667"
 	},
 	{
 		"iso": "1100",
-		"f": "",
+		"isoNominal": "1131.37070108",
+		"aperture": "f/27",
+		"apertureNominal": "26.90868529",
 		"shutter": "724077",
+		"shutterNominal": "724.07734394",
 		"nd": "",
-		"ev": "9.5",
-		"lux": "1810.19"
+		"luminance": "1810.1933598",
+		"ev": "9.500"
 	},
 	{
 		"iso": "1000",
-		"f": "",
+		"isoNominal": "1007.93670733",
+		"aperture": "f/25",
+		"apertureNominal": "25.39841683",
 		"shutter": "645080",
+		"shutterNominal": "645.07957755",
 		"nd": "",
-		"ev": "9.3",
-		"lux": "1612.70"
+		"luminance": "1612.6989439",
+		"ev": "9.333"
 	},
 	{
 		"iso": "800",
-		"f": "",
+		"isoNominal": "799.99989477",
+		"aperture": "f/22",
+		"apertureNominal": "22.62741700",
 		"shutter": "512000",
+		"shutterNominal": "512.00000000",
 		"nd": "",
-		"ev": "9.0",
-		"lux": "1280.00"
+		"luminance": "1280.0000000",
+		"ev": "9.000"
 	},
 	{
 		"iso": "640",
-		"f": "",
+		"isoNominal": "634.96033726",
+		"aperture": "f/20",
+		"apertureNominal": "20.15873680",
 		"shutter": "406375",
+		"shutterNominal": "406.37466930",
 		"nd": "",
-		"ev": "8.7",
-		"lux": "1015.94"
+		"luminance": "1015.9366733",
+		"ev": "8.667"
 	},
 	{
 		"iso": "560",
-		"f": "",
+		"isoNominal": "565.68535054",
+		"aperture": "f/19",
+		"apertureNominal": "19.02731384",
 		"shutter": "362039",
+		"shutterNominal": "362.03867197",
 		"nd": "",
-		"ev": "8.5",
-		"lux": "905.10"
+		"luminance": "905.0966799",
+		"ev": "8.500"
 	},
 	{
 		"iso": "500",
-		"f": "",
+		"isoNominal": "503.96835367",
+		"aperture": "f/18",
+		"apertureNominal": "17.95939277",
 		"shutter": "322540",
+		"shutterNominal": "322.53978877",
 		"nd": "",
-		"ev": "8.3",
-		"lux": "806.35"
+		"luminance": "806.3494719",
+		"ev": "8.333"
 	},
 	{
 		"iso": "400",
-		"f": "",
+		"isoNominal": "399.99994738",
+		"aperture": "f/16",
+		"apertureNominal": "16.00000000",
 		"shutter": "256000",
+		"shutterNominal": "256.00000000",
 		"nd": "",
-		"ev": "8.0",
-		"lux": "640.00"
+		"luminance": "640.0000000",
+		"ev": "8.000"
 	},
 	{
 		"iso": "320",
-		"f": "",
+		"isoNominal": "317.48016863",
+		"aperture": "f/14",
+		"apertureNominal": "14.25437949",
 		"shutter": "203187",
+		"shutterNominal": "203.18733465",
 		"nd": "",
-		"ev": "7.7",
-		"lux": "507.97"
+		"luminance": "507.9683366",
+		"ev": "7.667"
 	},
 	{
 		"iso": "280",
-		"f": "",
+		"isoNominal": "282.84267527",
+		"aperture": "f/13",
+		"apertureNominal": "13.45434264",
 		"shutter": "181019",
+		"shutterNominal": "181.01933598",
 		"nd": "",
-		"ev": "7.5",
-		"lux": "452.55"
+		"luminance": "452.5483400",
+		"ev": "7.500"
 	},
 	{
 		"iso": "250",
-		"f": "",
+		"isoNominal": "251.98417683",
+		"aperture": "f/13",
+		"apertureNominal": "12.69920842",
 		"shutter": "161270",
+		"shutterNominal": "161.26989439",
 		"nd": "",
-		"ev": "7.3",
-		"lux": "403.17"
+		"luminance": "403.1747360",
+		"ev": "7.333"
 	},
 	{
 		"iso": "200",
-		"f": "",
+		"isoNominal": "199.99997369",
+		"aperture": "f/11",
+		"apertureNominal": "11.31370850",
 		"shutter": "128000",
+		"shutterNominal": "128.00000000",
 		"nd": "",
-		"ev": "7.0",
-		"lux": "320.00"
+		"luminance": "320.0000000",
+		"ev": "7.000"
 	},
 	{
 		"iso": "160",
-		"f": "",
+		"isoNominal": "158.74008432",
+		"aperture": "f/10",
+		"apertureNominal": "10.07936840",
 		"shutter": "101594",
+		"shutterNominal": "101.59366733",
 		"nd": "",
-		"ev": "6.7",
-		"lux": "253.98"
+		"luminance": "253.9841683",
+		"ev": "6.667"
 	},
 	{
 		"iso": "140",
-		"f": "",
+		"isoNominal": "141.42133763",
+		"aperture": "f/9.5",
+		"apertureNominal": "9.51365692",
 		"shutter": "90510",
+		"shutterNominal": "90.50966799",
 		"nd": "",
-		"ev": "6.5",
-		"lux": "226.27"
+		"luminance": "226.2741700",
+		"ev": "6.500"
 	},
 	{
 		"iso": "125",
-		"f": "",
+		"isoNominal": "125.99208842",
+		"aperture": "f/9",
+		"apertureNominal": "8.97969639",
 		"shutter": "80635",
+		"shutterNominal": "80.63494719",
 		"nd": "",
-		"ev": "6.3",
-		"lux": "201.59"
+		"luminance": "201.5873680",
+		"ev": "6.333"
 	},
 	{
 		"iso": "100",
-		"f": "",
+		"isoNominal": "99.99998685",
+		"aperture": "f/8",
+		"apertureNominal": "8.00000000",
 		"shutter": "64000",
+		"shutterNominal": "64.00000000",
 		"nd": "",
-		"ev": "6.0",
-		"lux": "160.00"
+		"luminance": "160.0000000",
+		"ev": "6.000"
 	},
 	{
 		"iso": "80",
-		"f": "",
+		"isoNominal": "79.37004216",
+		"aperture": "f/7.1",
+		"apertureNominal": "7.12718975",
 		"shutter": "50797",
+		"shutterNominal": "50.79683366",
 		"nd": "",
-		"ev": "5.7",
-		"lux": "126.99"
+		"luminance": "126.9920842",
+		"ev": "5.667"
 	},
 	{
 		"iso": "70",
-		"f": "",
+		"isoNominal": "70.71066882",
+		"aperture": "f/6.7",
+		"apertureNominal": "6.72717132",
 		"shutter": "45255",
+		"shutterNominal": "45.25483400",
 		"nd": "",
-		"ev": "5.5",
-		"lux": "113.14"
+		"luminance": "113.1370850",
+		"ev": "5.500"
 	},
 	{
 		"iso": "64",
-		"f": "",
+		"isoNominal": "62.99604421",
+		"aperture": "f/6.3",
+		"apertureNominal": "6.34960421",
 		"shutter": "40317",
+		"shutterNominal": "40.31747360",
 		"nd": "",
-		"ev": "5.3",
-		"lux": "100.79"
+		"luminance": "100.7936840",
+		"ev": "5.333"
 	},
 	{
 		"iso": "50",
-		"f": "",
+		"isoNominal": "49.99999342",
+		"aperture": "f/5.6",
+		"apertureNominal": "5.65685425",
 		"shutter": "32000",
+		"shutterNominal": "32.00000000",
 		"nd": "",
-		"ev": "5.0",
-		"lux": "80.00"
+		"luminance": "80.0000000",
+		"ev": "5.000"
 	},
 	{
 		"iso": "40",
-		"f": "",
+		"isoNominal": "39.68502108",
+		"aperture": "f/5.0",
+		"apertureNominal": "5.03968420",
 		"shutter": "25398",
+		"shutterNominal": "25.39841683",
 		"nd": "",
-		"ev": "4.7",
-		"lux": "63.50"
+		"luminance": "63.4960421",
+		"ev": "4.667"
 	},
 	{
 		"iso": "35",
-		"f": "",
+		"isoNominal": "35.35533441",
+		"aperture": "f/4.8",
+		"apertureNominal": "4.75682846",
 		"shutter": "22627",
+		"shutterNominal": "22.62741700",
 		"nd": "",
-		"ev": "4.5",
-		"lux": "56.57"
+		"luminance": "56.5685425",
+		"ev": "4.500"
 	},
 	{
 		"iso": "30",
-		"f": "",
+		"isoNominal": "31.49802210",
+		"aperture": "f/4.5",
+		"apertureNominal": "4.48984819",
 		"shutter": "20159",
+		"shutterNominal": "20.15873680",
 		"nd": "",
-		"ev": "4.3",
-		"lux": "50.40"
+		"luminance": "50.3968420",
+		"ev": "4.333"
 	},
 	{
 		"iso": "25",
-		"f": "",
+		"isoNominal": "24.99999671",
+		"aperture": "f/4",
+		"apertureNominal": "4.00000000",
 		"shutter": "16000",
+		"shutterNominal": "16.00000000",
 		"nd": "",
-		"ev": "4.0",
-		"lux": "40.00"
+		"luminance": "40.0000000",
+		"ev": "4.000"
 	},
 	{
 		"iso": "",
-		"f": "",
+		"isoNominal": "",
+		"aperture": "f/3.5",
+		"apertureNominal": "3.56359487",
 		"shutter": "12699",
+		"shutterNominal": "12.69920842",
 		"nd": "",
-		"ev": "3.7",
-		"lux": "31.75"
+		"luminance": "31.7480210",
+		"ev": "3.667"
 	},
 	{
 		"iso": "",
-		"f": "",
+		"isoNominal": "",
+		"aperture": "f/3.3",
+		"apertureNominal": "3.36358566",
 		"shutter": "11314",
+		"shutterNominal": "11.31370850",
 		"nd": "",
-		"ev": "3.5",
-		"lux": "28.28"
+		"luminance": "28.2842712",
+		"ev": "3.500"
 	},
 	{
 		"iso": "",
-		"f": "",
+		"isoNominal": "",
+		"aperture": "f/3.2",
+		"apertureNominal": "3.17480210",
 		"shutter": "10079",
+		"shutterNominal": "10.07936840",
 		"nd": "",
-		"ev": "3.3",
-		"lux": "25.20"
+		"luminance": "25.1984210",
+		"ev": "3.333"
 	},
 	{
 		"iso": "",
-		"f": "",
+		"isoNominal": "",
+		"aperture": "f/2.8",
+		"apertureNominal": "2.82842712",
 		"shutter": "8000",
+		"shutterNominal": "8.00000000",
 		"nd": "",
-		"ev": "3.0",
-		"lux": "20.00"
+		"luminance": "20.0000000",
+		"ev": "3.000"
 	},
 	{
 		"iso": "",
-		"f": "",
+		"isoNominal": "",
+		"aperture": "f/2.5",
+		"apertureNominal": "2.51984210",
 		"shutter": "6350",
+		"shutterNominal": "6.34960421",
 		"nd": "",
-		"ev": "2.7",
-		"lux": "15.87"
+		"luminance": "15.8740105",
+		"ev": "2.667"
 	},
 	{
 		"iso": "",
-		"f": "",
+		"isoNominal": "",
+		"aperture": "f/2.4",
+		"apertureNominal": "2.37841423",
 		"shutter": "5657",
+		"shutterNominal": "5.65685425",
 		"nd": "",
-		"ev": "2.5",
-		"lux": "14.14"
+		"luminance": "14.1421356",
+		"ev": "2.500"
 	},
 	{
 		"iso": "",
-		"f": "",
+		"isoNominal": "",
+		"aperture": "f/2.2",
+		"apertureNominal": "2.24492410",
 		"shutter": "5040",
+		"shutterNominal": "5.03968420",
 		"nd": "",
-		"ev": "2.3",
-		"lux": "12.60"
+		"luminance": "12.5992105",
+		"ev": "2.333"
 	},
 	{
 		"iso": "",
-		"f": "f/0.5",
+		"isoNominal": "",
+		"aperture": "f/2",
+		"apertureNominal": "2.00000000",
 		"shutter": "4000",
+		"shutterNominal": "4.00000000",
 		"nd": "",
-		"ev": "2.0",
-		"lux": "10.00"
+		"luminance": "10.0000000",
+		"ev": "2.000"
 	},
 	{
 		"iso": "",
-		"f": "f/0.56",
+		"isoNominal": "",
+		"aperture": "f/1.8",
+		"apertureNominal": "1.78179744",
 		"shutter": "3175",
+		"shutterNominal": "3.17480210",
 		"nd": "",
-		"ev": "1.7",
-		"lux": "7.94"
+		"luminance": "7.9370053",
+		"ev": "1.667"
 	},
 	{
 		"iso": "",
-		"f": "f/0.6",
+		"isoNominal": "",
+		"aperture": "f/1.7",
+		"apertureNominal": "1.68179283",
 		"shutter": "2828",
+		"shutterNominal": "2.82842712",
 		"nd": "",
-		"ev": "1.5",
-		"lux": "07.07"
+		"luminance": "7.0710678",
+		"ev": "1.500"
 	},
 	{
 		"iso": "",
-		"f": "f/0.6",
+		"isoNominal": "",
+		"aperture": "f/1.6",
+		"apertureNominal": "1.58740105",
 		"shutter": "2520",
+		"shutterNominal": "2.51984210",
 		"nd": "",
-		"ev": "1.3",
-		"lux": "6.30"
+		"luminance": "6.2996052",
+		"ev": "1.333"
 	},
 	{
 		"iso": "",
-		"f": "f/0.7",
+		"isoNominal": "",
+		"aperture": "f/1.4",
+		"apertureNominal": "1.41421356",
 		"shutter": "2000",
+		"shutterNominal": "2.00000000",
 		"nd": "",
-		"ev": "1.0",
-		"lux": "5.00"
+		"luminance": "5.0000000",
+		"ev": "1.000"
 	},
 	{
 		"iso": "",
-		"f": "f/0.8",
+		"isoNominal": "",
+		"aperture": "f/1.2",
+		"apertureNominal": "1.25992105",
 		"shutter": "1587",
+		"shutterNominal": "1.58740105",
 		"nd": "",
-		"ev": "0.7",
-		"lux": "3.97"
+		"luminance": "3.9685026",
+		"ev": "0.667"
 	},
 	{
 		"iso": "",
-		"f": "f/0.8",
+		"isoNominal": "",
+		"aperture": "f/1.2",
+		"apertureNominal": "1.18920712",
 		"shutter": "1414",
+		"shutterNominal": "1.41421356",
 		"nd": "",
-		"ev": "0.5",
-		"lux": "3.54"
+		"luminance": "3.5355339",
+		"ev": "0.500"
 	},
 	{
 		"iso": "",
-		"f": "f/0.9",
+		"isoNominal": "",
+		"aperture": "f/1.1",
+		"apertureNominal": "1.12246205",
 		"shutter": "1260",
+		"shutterNominal": "1.25992105",
 		"nd": "",
-		"ev": "0.3",
-		"lux": "3.15"
+		"luminance": "3.1498026",
+		"ev": "0.333"
 	},
 	{
 		"iso": "",
-		"f": "f/1",
+		"isoNominal": "",
+		"aperture": "f/1",
+		"apertureNominal": "1.00000000",
 		"shutter": "1000",
+		"shutterNominal": "1.00000000",
 		"nd": "0",
-		"ev": "0.0",
-		"lux": "2.50"
+		"luminance": "2.5000000",
+		"ev": "0.000"
 	},
 	{
 		"iso": "",
-		"f": "f/1.1",
+		"isoNominal": "",
+		"aperture": "f/0.9",
+		"apertureNominal": "0.89089872",
 		"shutter": "1/1.3 s",
+		"shutterNominal": "0.79370053",
 		"nd": "",
-		"ev": "-0.3",
-		"lux": "1.98"
+		"luminance": "1.9842513",
+		"ev": "-0.333"
 	},
 	{
 		"iso": "",
-		"f": "f/1.2",
+		"isoNominal": "",
+		"aperture": "f/0.8",
+		"apertureNominal": "0.84089642",
 		"shutter": "1/1.5 s",
+		"shutterNominal": "0.70710678",
 		"nd": "",
-		"ev": "-0.5",
-		"lux": "1.77"
+		"luminance": "1.7677670",
+		"ev": "-0.500"
 	},
 	{
 		"iso": "",
-		"f": "f/1.2",
+		"isoNominal": "",
+		"aperture": "f/0.8",
+		"apertureNominal": "0.79370053",
 		"shutter": "1/1.6 s",
+		"shutterNominal": "0.62996052",
 		"nd": "",
-		"ev": "-0.7",
-		"lux": "1.57"
+		"luminance": "1.5749013",
+		"ev": "-0.667"
 	},
 	{
 		"iso": "",
-		"f": "f/1.4",
+		"isoNominal": "",
+		"aperture": "f/0.7",
+		"apertureNominal": "0.70710678",
 		"shutter": "1/2 s",
+		"shutterNominal": "0.50000000",
 		"nd": "2",
-		"ev": "-1.0",
-		"lux": "1.25"
+		"luminance": "1.2500000",
+		"ev": "-1.000"
 	},
 	{
 		"iso": "",
-		"f": "f/1.6",
+		"isoNominal": "",
+		"aperture": "f/0.6",
+		"apertureNominal": "0.62996052",
 		"shutter": "1/2.5 s",
+		"shutterNominal": "0.39685026",
 		"nd": "",
-		"ev": "-1.3",
-		"lux": "0.99"
+		"luminance": "0.9921257",
+		"ev": "-1.333"
 	},
 	{
 		"iso": "",
-		"f": "f/1.7",
+		"isoNominal": "",
+		"aperture": "f/0.6",
+		"apertureNominal": "0.59460356",
 		"shutter": "1/3 s",
+		"shutterNominal": "0.35355339",
 		"nd": "",
-		"ev": "-1.5",
-		"lux": "0.88"
+		"luminance": "0.8838835",
+		"ev": "-1.500"
 	},
 	{
 		"iso": "",
-		"f": "f/1.8",
+		"isoNominal": "",
+		"aperture": "f/0.56",
+		"apertureNominal": "0.56123102",
 		"shutter": "1/3 s",
+		"shutterNominal": "0.31498026",
 		"nd": "",
-		"ev": "-1.7",
-		"lux": "0.79"
+		"luminance": "0.7874507",
+		"ev": "-1.667"
 	},
 	{
 		"iso": "",
-		"f": "f/2",
+		"isoNominal": "",
+		"aperture": "f/0.5",
+		"apertureNominal": "0.50000000",
 		"shutter": "1/4 s",
+		"shutterNominal": "0.25000000",
 		"nd": "4",
-		"ev": "-2.0",
-		"lux": "0.63"
+		"luminance": "0.6250000",
+		"ev": "-2.000"
 	},
 	{
 		"iso": "",
-		"f": "f/2.2",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/5 s",
+		"shutterNominal": "0.19842513",
 		"nd": "",
-		"ev": "-2.3",
-		"lux": "0.50"
+		"luminance": "0.4960628",
+		"ev": "-2.333"
 	},
 	{
 		"iso": "",
-		"f": "f/2.4",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/6 s",
+		"shutterNominal": "0.17677670",
 		"nd": "",
-		"ev": "-2.5",
-		"lux": "0.44"
+		"luminance": "0.4419417",
+		"ev": "-2.500"
 	},
 	{
 		"iso": "",
-		"f": "f/2.5",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/6 s",
+		"shutterNominal": "0.15749013",
 		"nd": "",
-		"ev": "-2.7",
-		"lux": "0.39"
+		"luminance": "0.3937253",
+		"ev": "-2.667"
 	},
 	{
 		"iso": "",
-		"f": "f/2.8",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/8 s",
+		"shutterNominal": "0.12500000",
 		"nd": "8",
-		"ev": "-3.0",
-		"lux": "0.31"
+		"luminance": "0.3125000",
+		"ev": "-3.000"
 	},
 	{
 		"iso": "",
-		"f": "f/3.2",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/10 s",
+		"shutterNominal": "0.09921257",
 		"nd": "",
-		"ev": "-3.3",
-		"lux": "0.25"
+		"luminance": "0.2480314",
+		"ev": "-3.333"
 	},
 	{
 		"iso": "",
-		"f": "f/3.3",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/10 s",
+		"shutterNominal": "0.08838835",
 		"nd": "",
-		"ev": "-3.5",
-		"lux": "0.22"
+		"luminance": "0.2209709",
+		"ev": "-3.500"
 	},
 	{
 		"iso": "",
-		"f": "f/3.5",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/13 s",
+		"shutterNominal": "0.07874507",
 		"nd": "",
-		"ev": "-3.7",
-		"lux": "0.20"
+		"luminance": "0.1968627",
+		"ev": "-3.667"
 	},
 	{
 		"iso": "",
-		"f": "f/4",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/15 s",
+		"shutterNominal": "0.06250000",
 		"nd": "16",
-		"ev": "-4.0",
-		"lux": "0.16"
+		"luminance": "0.1562500",
+		"ev": "-4.000"
 	},
 	{
 		"iso": "",
-		"f": "f/4.5",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/20 s",
+		"shutterNominal": "0.04960628",
 		"nd": "",
-		"ev": "-4.3",
-		"lux": ""
+		"luminance": "0.1240157",
+		"ev": "-4.333"
 	},
 	{
 		"iso": "",
-		"f": "f/4.8",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/20 s",
+		"shutterNominal": "0.04419417",
 		"nd": "",
-		"ev": "-4.5",
-		"lux": ""
+		"luminance": "0.1104854",
+		"ev": "-4.500"
 	},
 	{
 		"iso": "",
-		"f": "f/5.0",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/25 s",
+		"shutterNominal": "0.03937253",
 		"nd": "",
-		"ev": "-4.7",
-		"lux": ""
+		"luminance": "0.0984313",
+		"ev": "-4.667"
 	},
 	{
 		"iso": "",
-		"f": "f/5.6",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/30 s",
+		"shutterNominal": "0.03125000",
 		"nd": "32",
-		"ev": "-5.0",
-		"lux": ""
+		"luminance": "0.0781250",
+		"ev": "-5.000"
 	},
 	{
 		"iso": "",
-		"f": "f/6.3",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/40 s",
+		"shutterNominal": "0.02480314",
 		"nd": "",
-		"ev": "-5.3",
-		"lux": ""
+		"luminance": "0.0620079",
+		"ev": "-5.333"
 	},
 	{
 		"iso": "",
-		"f": "f/6.7",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/45 s",
+		"shutterNominal": "0.02209709",
 		"nd": "",
-		"ev": "-5.5",
-		"lux": ""
+		"luminance": "0.0552427",
+		"ev": "-5.500"
 	},
 	{
 		"iso": "",
-		"f": "f/7.1",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/50 s",
+		"shutterNominal": "0.01968627",
 		"nd": "",
-		"ev": "-5.7",
-		"lux": ""
+		"luminance": "0.0492157",
+		"ev": "-5.667"
 	},
 	{
 		"iso": "",
-		"f": "f/8",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/60 s",
+		"shutterNominal": "0.01562500",
 		"nd": "64",
-		"ev": "-6.0",
-		"lux": ""
+		"luminance": "0.0390625",
+		"ev": "-6.000"
 	},
 	{
 		"iso": "",
-		"f": "f/9",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/80 s",
+		"shutterNominal": "0.01240157",
 		"nd": "",
-		"ev": "-6.3",
-		"lux": ""
+		"luminance": "0.0310039",
+		"ev": "-6.333"
 	},
 	{
 		"iso": "",
-		"f": "f/9.5",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/90 s",
+		"shutterNominal": "0.01104854",
 		"nd": "",
-		"ev": "-6.5",
-		"lux": ""
+		"luminance": "0.0276214",
+		"ev": "-6.500"
 	},
 	{
 		"iso": "",
-		"f": "f/10",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/100 s",
+		"shutterNominal": "0.00984313",
 		"nd": "",
-		"ev": "-6.7",
-		"lux": ""
+		"luminance": "0.0246078",
+		"ev": "-6.667"
 	},
 	{
 		"iso": "",
-		"f": "f/11",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/125 s",
+		"shutterNominal": "0.00781250",
 		"nd": "128",
-		"ev": "-7.0",
-		"lux": ""
+		"luminance": "0.0195313",
+		"ev": "-7.000"
 	},
 	{
 		"iso": "",
-		"f": "f/13",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/160 s",
+		"shutterNominal": "0.00620079",
 		"nd": "",
-		"ev": "-7.3",
-		"lux": ""
+		"luminance": "0.0155020",
+		"ev": "-7.333"
 	},
 	{
 		"iso": "",
-		"f": "f/13",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/180 s",
+		"shutterNominal": "0.00552427",
 		"nd": "",
-		"ev": "-7.5",
-		"lux": ""
+		"luminance": "0.0138107",
+		"ev": "-7.500"
 	},
 	{
 		"iso": "",
-		"f": "f/14",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/200 s",
+		"shutterNominal": "0.00492157",
 		"nd": "",
-		"ev": "-7.7",
-		"lux": ""
+		"luminance": "0.0123039",
+		"ev": "-7.667"
 	},
 	{
 		"iso": "",
-		"f": "f/16",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/250 s",
+		"shutterNominal": "0.00390625",
 		"nd": "256",
-		"ev": "-8.0",
-		"lux": ""
+		"luminance": "0.0097656",
+		"ev": "-8.000"
 	},
 	{
 		"iso": "",
-		"f": "f/18",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/320 s",
+		"shutterNominal": "0.00310039",
 		"nd": "",
-		"ev": "-8.3",
-		"lux": ""
+		"luminance": "0.0077510",
+		"ev": "-8.333"
 	},
 	{
 		"iso": "",
-		"f": "f/19",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/350 s",
+		"shutterNominal": "0.00276214",
 		"nd": "",
-		"ev": "-8.5",
-		"lux": ""
+		"luminance": "0.0069053",
+		"ev": "-8.500"
 	},
 	{
 		"iso": "",
-		"f": "f/20",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/400 s",
+		"shutterNominal": "0.00246078",
 		"nd": "",
-		"ev": "-8.7",
-		"lux": ""
+		"luminance": "0.0061520",
+		"ev": "-8.667"
 	},
 	{
 		"iso": "",
-		"f": "f/22",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/500 s",
+		"shutterNominal": "0.00195313",
 		"nd": "512",
-		"ev": "-9.0",
-		"lux": ""
+		"luminance": "0.0048828",
+		"ev": "-9.000"
 	},
 	{
 		"iso": "",
-		"f": "f/25",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/640 s",
+		"shutterNominal": "0.00155020",
 		"nd": "",
-		"ev": "-9.3",
-		"lux": ""
+		"luminance": "0.0038755",
+		"ev": "-9.333"
 	},
 	{
 		"iso": "",
-		"f": "f/27",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/750 s",
+		"shutterNominal": "0.00138107",
 		"nd": "",
-		"ev": "-9.5",
-		"lux": ""
+		"luminance": "0.0034527",
+		"ev": "-9.500"
 	},
 	{
 		"iso": "",
-		"f": "f/28",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/800 s",
+		"shutterNominal": "0.00123039",
 		"nd": "",
-		"ev": "-9.7",
-		"lux": ""
+		"luminance": "0.0030760",
+		"ev": "-9.667"
 	},
 	{
 		"iso": "",
-		"f": "f/32",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/1000 s",
+		"shutterNominal": "0.00097656",
 		"nd": "1024",
-		"ev": "-10.0",
-		"lux": ""
+		"luminance": "0.0024414",
+		"ev": "-10.000"
 	},
 	{
 		"iso": "",
-		"f": "f/36",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/1250 s",
+		"shutterNominal": "0.00077510",
 		"nd": "",
-		"ev": "-10.3",
-		"lux": ""
+		"luminance": "0.0019377",
+		"ev": "-10.333"
 	},
 	{
 		"iso": "",
-		"f": "f/38",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/1500 s",
+		"shutterNominal": "0.00069053",
 		"nd": "",
-		"ev": "-10.5",
-		"lux": ""
+		"luminance": "0.0017263",
+		"ev": "-10.500"
 	},
 	{
 		"iso": "",
-		"f": "f/40",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/1600 s",
+		"shutterNominal": "0.00061520",
 		"nd": "",
-		"ev": "-10.7",
-		"lux": ""
+		"luminance": "0.0015380",
+		"ev": "-10.667"
 	},
 	{
 		"iso": "",
-		"f": "f/45",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/2000 s",
+		"shutterNominal": "0.00048828",
 		"nd": "2048",
-		"ev": "-11.0",
-		"lux": ""
+		"luminance": "0.0012207",
+		"ev": "-11.000"
 	},
 	{
 		"iso": "",
-		"f": "f/50",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/2500 s",
+		"shutterNominal": "0.00038755",
 		"nd": "",
-		"ev": "-11.3",
-		"lux": ""
+		"luminance": "0.0009689",
+		"ev": "-11.333"
 	},
 	{
 		"iso": "",
-		"f": "f/55",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/3000 s",
+		"shutterNominal": "0.00034527",
 		"nd": "",
-		"ev": "-11.5",
-		"lux": ""
+		"luminance": "0.0008632",
+		"ev": "-11.500"
 	},
 	{
 		"iso": "",
-		"f": "f/60",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/3200 s",
+		"shutterNominal": "0.00030760",
 		"nd": "",
-		"ev": "-11.7",
-		"lux": ""
+		"luminance": "0.0007690",
+		"ev": "-11.667"
 	},
 	{
 		"iso": "",
-		"f": "f/64",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/4000 s",
+		"shutterNominal": "0.00024414",
 		"nd": "4096",
-		"ev": "-12.0",
-		"lux": ""
+		"luminance": "0.0006104",
+		"ev": "-12.000"
 	},
 	{
 		"iso": "",
-		"f": "f/72",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/5000 s",
+		"shutterNominal": "0.00019377",
 		"nd": "",
-		"ev": "-12.3",
-		"lux": ""
+		"luminance": "0.0004844",
+		"ev": "-12.333"
 	},
 	{
 		"iso": "",
-		"f": "f/76",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/6000 s",
+		"shutterNominal": "0.00017263",
 		"nd": "",
-		"ev": "-12.5",
-		"lux": ""
+		"luminance": "0.0004316",
+		"ev": "-12.500"
 	},
 	{
 		"iso": "",
-		"f": "f/80",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/6400 s",
+		"shutterNominal": "0.00015380",
 		"nd": "",
-		"ev": "-12.7",
-		"lux": ""
+		"luminance": "0.0003845",
+		"ev": "-12.667"
 	},
 	{
 		"iso": "",
-		"f": "f/90",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/8000 s",
+		"shutterNominal": "0.00012207",
 		"nd": "8192",
-		"ev": "-13.0",
-		"lux": ""
+		"luminance": "0.0003052",
+		"ev": "-13.000"
 	},
 	{
 		"iso": "",
-		"f": "f/100",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/10000 s",
+		"shutterNominal": "0.00009689",
 		"nd": "",
-		"ev": "-13.3",
-		"lux": ""
+		"luminance": "0.0002422",
+		"ev": "-13.333"
 	},
 	{
 		"iso": "",
-		"f": "f/110",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/12000 s",
+		"shutterNominal": "0.00008632",
 		"nd": "",
-		"ev": "-13.5",
-		"lux": ""
+		"luminance": "0.0002158",
+		"ev": "-13.500"
 	},
 	{
 		"iso": "",
-		"f": "f/115",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/12800 s",
+		"shutterNominal": "0.00007690",
 		"nd": "",
-		"ev": "-13.7",
-		"lux": ""
+		"luminance": "0.0001922",
+		"ev": "-13.667"
 	},
 	{
 		"iso": "",
-		"f": "f/128",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/16000 s",
+		"shutterNominal": "0.00006104",
 		"nd": "",
-		"ev": "-14.0",
-		"lux": ""
+		"luminance": "0.0001526",
+		"ev": "-14.000"
 	},
 	{
 		"iso": "",
-		"f": "f/144",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/20000 s",
+		"shutterNominal": "0.00004844",
 		"nd": "",
-		"ev": "-14.3",
-		"lux": ""
+		"luminance": "0.0001211",
+		"ev": "-14.333"
 	},
 	{
 		"iso": "",
-		"f": "f/152",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/24000 s",
+		"shutterNominal": "0.00004316",
 		"nd": "",
-		"ev": "-14.5",
-		"lux": ""
+		"luminance": "0.0001079",
+		"ev": "-14.500"
 	},
 	{
 		"iso": "",
-		"f": "f/160",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/25600 s",
+		"shutterNominal": "0.00003845",
 		"nd": "",
-		"ev": "-14.7",
-		"lux": ""
+		"luminance": "0.0000961",
+		"ev": "-14.667"
 	},
 	{
 		"iso": "",
-		"f": "f/180",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "1/32000 s",
+		"shutterNominal": "0.00003052",
 		"nd": "",
-		"ev": "-15.0",
-		"lux": ""
+		"luminance": "0.0000763",
+		"ev": "-15.000"
 	},
 	{
 		"iso": "",
-		"f": "f/200",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "",
+		"shutterNominal": "",
 		"nd": "",
-		"ev": "-15.3",
-		"lux": ""
+		"luminance": "0.0000606",
+		"ev": "-15.333"
 	},
 	{
 		"iso": "",
-		"f": "f/220",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "",
+		"shutterNominal": "",
 		"nd": "",
-		"ev": "-15.5",
-		"lux": ""
+		"luminance": "0.0000539",
+		"ev": "-15.500"
 	},
 	{
 		"iso": "",
-		"f": "f/230",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "",
+		"shutterNominal": "",
 		"nd": "",
-		"ev": "-15.7",
-		"lux": ""
+		"luminance": "0.0000481",
+		"ev": "-15.667"
 	},
 	{
 		"iso": "",
-		"f": "f/256",
+		"isoNominal": "",
+		"aperture": "",
+		"apertureNominal": "",
 		"shutter": "",
+		"shutterNominal": "",
 		"nd": "",
-		"ev": "-16.0",
-		"lux": ""
+		"luminance": "0.0000381",
+		"ev": "-16.000"
 	}
 ]
