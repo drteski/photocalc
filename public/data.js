@@ -112,6 +112,109 @@ export const frameTable = [
 		'coc'   : '0.22'
 	}
 ];
+
+export const compensationTable = [
+	{
+		'ev'       : '3.000',
+		'evDisplay': '3'
+	},
+	{
+		'ev'       : '2.667',
+		'evDisplay': '2 + 2/3'
+	},
+	{
+		'ev'       : '2.500',
+		'evDisplay': '2 + 1/2'
+	},
+	{
+		'ev'       : '2.333',
+		'evDisplay': '2 + 1/3'
+	},
+	{
+		'ev'       : '2.000',
+		'evDisplay': '2'
+	},
+	{
+		'ev'       : '1.667',
+		'evDisplay': '1 + 2/3'
+	},
+	{
+		'ev'       : '1.500',
+		'evDisplay': '1 + 1/2'
+	},
+	{
+		'ev'       : '1.333',
+		'evDisplay': '1 + 1/3'
+	},
+	{
+		'ev'       : '1.000',
+		'evDisplay': '1'
+	},
+	{
+		'ev'       : '0.667',
+		'evDisplay': '0 + 2/3'
+	},
+	{
+		'ev'       : '0.500',
+		'evDisplay': '0 + 1/2'
+	},
+	{
+		'ev'       : '0.333',
+		'evDisplay': '0 + 1/3'
+	},
+	{
+		'ev'       : '0.000',
+		'evDisplay': '0'
+	},
+	{
+		'ev'       : '-0.333',
+		'evDisplay': '0 - 1/3'
+	},
+	{
+		'ev'       : '-0.500',
+		'evDisplay': '0 - 1/2'
+	},
+	{
+		'ev'       : '-0.667',
+		'evDisplay': '0 - 2/3'
+	},
+	{
+		'ev'       : '-1.000',
+		'evDisplay': '-1'
+	},
+	{
+		'ev'       : '-1.333',
+		'evDisplay': '-1 - 1/3'
+	},
+	{
+		'ev'       : '-1.500',
+		'evDisplay': '-1 - 1/2'
+	},
+	{
+		'ev'       : '-1.667',
+		'evDisplay': '-1 - 2/3'
+	},
+	{
+		'ev'       : '-2.000',
+		'evDisplay': '-2'
+	},
+	{
+		'ev'       : '-2.333',
+		'evDisplay': '-2 - 1/3'
+	},
+	{
+		'ev'       : '-2.500',
+		'evDisplay': '-2 - 1/2'
+	},
+	{
+		'ev'       : '-2.667',
+		'evDisplay': '-2 - 2/3'
+	},
+	{
+		'ev'       : '-3.000',
+		'evDisplay': '-3'
+	}
+];
 export const exposureTable = [
 	{
 		'ev'              : '16.000',
@@ -324,7 +427,7 @@ export const exposureTable = [
 		'aperture'        : '57.02410526',
 		'apertureDisplay' : 'f/60',
 		'shutter'         : '3251.74858110',
-		'shutterDisplay'  : '00h 54m 11s',
+		'shutterDisplay'  : '54m 11s',
 		'nd'              : '',
 		'luminance'       : '8127.49338610',
 		'luminanceDisplay': '8200 lux'
@@ -336,7 +439,7 @@ export const exposureTable = [
 		'aperture'        : '53.81737058',
 		'apertureDisplay' : 'f/55',
 		'shutter'         : '2896.30937574',
-		'shutterDisplay'  : '00h 48m 16s',
+		'shutterDisplay'  : '48m 16s',
 		'nd'              : '',
 		'luminance'       : '7240.77343940',
 		'luminanceDisplay': '7300 lux'
@@ -348,7 +451,7 @@ export const exposureTable = [
 		'aperture'        : '50.79096572',
 		'apertureDisplay' : 'f/50',
 		'shutter'         : '2579.72219893',
-		'shutterDisplay'  : '00h 43m 00s',
+		'shutterDisplay'  : '43m 00s',
 		'nd'              : '',
 		'luminance'       : '6450.79577550',
 		'luminanceDisplay': '6500 lux'
@@ -360,7 +463,7 @@ export const exposureTable = [
 		'aperture'        : '45.25483400',
 		'apertureDisplay' : 'f/45',
 		'shutter'         : '2048.00000000',
-		'shutterDisplay'  : '00h 34m 08s',
+		'shutterDisplay'  : '34m 08s',
 		'nd'              : '',
 		'luminance'       : '5120.00000000',
 		'luminanceDisplay': '5200 lux'
@@ -372,7 +475,7 @@ export const exposureTable = [
 		'aperture'        : '40.32213152',
 		'apertureDisplay' : 'f/40',
 		'shutter'         : '1625.87429055',
-		'shutterDisplay'  : '00h 27m 05s',
+		'shutterDisplay'  : '27m 05s',
 		'nd'              : '',
 		'luminance'       : '4063.74669300',
 		'luminanceDisplay': '4100 lux'
@@ -384,7 +487,7 @@ export const exposureTable = [
 		'aperture'        : '38.05462768',
 		'apertureDisplay' : 'f/38',
 		'shutter'         : '1448.15468787',
-		'shutterDisplay'  : '00h 24m 08s',
+		'shutterDisplay'  : '24m 08s',
 		'nd'              : '',
 		'luminance'       : '3620.38671970',
 		'luminanceDisplay': '3700 lux'
@@ -396,7 +499,7 @@ export const exposureTable = [
 		'aperture'        : '35.91463628',
 		'apertureDisplay' : 'f/36',
 		'shutter'         : '1289.86109947',
-		'shutterDisplay'  : '00h 21m 30s',
+		'shutterDisplay'  : '21m 30s',
 		'nd'              : '',
 		'luminance'       : '3225.39788770',
 		'luminanceDisplay': '3300 lux'
@@ -408,7 +511,7 @@ export const exposureTable = [
 		'aperture'        : '32.00000000',
 		'apertureDisplay' : 'f/32',
 		'shutter'         : '1024.00000000',
-		'shutterDisplay'  : '00h 17m 04s',
+		'shutterDisplay'  : '17m 04s',
 		'nd'              : '',
 		'luminance'       : '2560.00000000',
 		'luminanceDisplay': '2600 lux'
@@ -420,7 +523,7 @@ export const exposureTable = [
 		'aperture'        : '28.51205263',
 		'apertureDisplay' : 'f/28',
 		'shutter'         : '812.93714527',
-		'shutterDisplay'  : '00h 13m 33s',
+		'shutterDisplay'  : '13m 33s',
 		'nd'              : '',
 		'luminance'       : '2031.87334650',
 		'luminanceDisplay': '2100 lux'
@@ -432,7 +535,7 @@ export const exposureTable = [
 		'aperture'        : '26.90868529',
 		'apertureDisplay' : 'f/27',
 		'shutter'         : '724.07734394',
-		'shutterDisplay'  : '00h 12m 04s',
+		'shutterDisplay'  : '12m 04s',
 		'nd'              : '',
 		'luminance'       : '1810.19335980',
 		'luminanceDisplay': '1900 lux'
@@ -444,7 +547,7 @@ export const exposureTable = [
 		'aperture'        : '25.39548286',
 		'apertureDisplay' : 'f/25',
 		'shutter'         : '644.93054973',
-		'shutterDisplay'  : '00h 10m 45s',
+		'shutterDisplay'  : '10m 45s',
 		'nd'              : '',
 		'luminance'       : '1612.69894390',
 		'luminanceDisplay': '1700 lux'
@@ -456,7 +559,7 @@ export const exposureTable = [
 		'aperture'        : '22.62741700',
 		'apertureDisplay' : 'f/22',
 		'shutter'         : '512.00000000',
-		'shutterDisplay'  : '00h 08m 32s',
+		'shutterDisplay'  : '08m 32s',
 		'nd'              : '',
 		'luminance'       : '1280.00000000',
 		'luminanceDisplay': '1300 lux'
@@ -468,7 +571,7 @@ export const exposureTable = [
 		'aperture'        : '20.16106576',
 		'apertureDisplay' : 'f/20',
 		'shutter'         : '406.46857264',
-		'shutterDisplay'  : '00h 06m 46s',
+		'shutterDisplay'  : '06m 46s',
 		'nd'              : '',
 		'luminance'       : '1015.93667330',
 		'luminanceDisplay': '1100 lux'
@@ -480,7 +583,7 @@ export const exposureTable = [
 		'aperture'        : '19.02731384',
 		'apertureDisplay' : 'f/19',
 		'shutter'         : '362.03867197',
-		'shutterDisplay'  : '00h 06m 02s',
+		'shutterDisplay'  : '06m 02s',
 		'nd'              : '',
 		'luminance'       : '905.09667990',
 		'luminanceDisplay': '910 lux'
@@ -492,7 +595,7 @@ export const exposureTable = [
 		'aperture'        : '17.95731814',
 		'apertureDisplay' : 'f/18',
 		'shutter'         : '322.46527487',
-		'shutterDisplay'  : '00h 05m 23s',
+		'shutterDisplay'  : '05m 23s',
 		'nd'              : '',
 		'luminance'       : '806.34947190',
 		'luminanceDisplay': '810 lux'
@@ -504,7 +607,7 @@ export const exposureTable = [
 		'aperture'        : '16.00000000',
 		'apertureDisplay' : 'f/16',
 		'shutter'         : '256.00000000',
-		'shutterDisplay'  : '00h 04m 16s',
+		'shutterDisplay'  : '04m 16s',
 		'nd'              : '',
 		'luminance'       : '640.00000000',
 		'luminanceDisplay': '640 lux'
@@ -516,7 +619,7 @@ export const exposureTable = [
 		'aperture'        : '14.25602632',
 		'apertureDisplay' : 'f/14',
 		'shutter'         : '203.23428632',
-		'shutterDisplay'  : '00h 03m 23s',
+		'shutterDisplay'  : '03m 23s',
 		'nd'              : '',
 		'luminance'       : '507.96833660',
 		'luminanceDisplay': '510 lux'
@@ -528,7 +631,7 @@ export const exposureTable = [
 		'aperture'        : '13.45434264',
 		'apertureDisplay' : 'f/13',
 		'shutter'         : '181.01933598',
-		'shutterDisplay'  : '00h 03m 01s',
+		'shutterDisplay'  : '03m 01s',
 		'nd'              : '',
 		'luminance'       : '452.54834000',
 		'luminanceDisplay': '460 lux'
@@ -540,7 +643,7 @@ export const exposureTable = [
 		'aperture'        : '12.69774143',
 		'apertureDisplay' : 'f/13',
 		'shutter'         : '161.23263743',
-		'shutterDisplay'  : '00h 02m 41s',
+		'shutterDisplay'  : '02m 41s',
 		'nd'              : '',
 		'luminance'       : '403.17473600',
 		'luminanceDisplay': '410 lux'
@@ -552,7 +655,7 @@ export const exposureTable = [
 		'aperture'        : '11.31370850',
 		'apertureDisplay' : 'f/11',
 		'shutter'         : '128.00000000',
-		'shutterDisplay'  : '00h 02m 08s',
+		'shutterDisplay'  : '02m 08s',
 		'nd'              : '',
 		'luminance'       : '320.00000000',
 		'luminanceDisplay': '320 lux'
@@ -564,7 +667,7 @@ export const exposureTable = [
 		'aperture'        : '10.08053288',
 		'apertureDisplay' : 'f/10',
 		'shutter'         : '101.61714316',
-		'shutterDisplay'  : '00h 01m 42s',
+		'shutterDisplay'  : '01m 42s',
 		'nd'              : '',
 		'luminance'       : '253.98416830',
 		'luminanceDisplay': '260 lux'
@@ -576,7 +679,7 @@ export const exposureTable = [
 		'aperture'        : '9.51365692',
 		'apertureDisplay' : 'f/9.5',
 		'shutter'         : '90.50966799',
-		'shutterDisplay'  : '00h 01m 31s',
+		'shutterDisplay'  : '01m 31s',
 		'nd'              : '',
 		'luminance'       : '226.27417000',
 		'luminanceDisplay': '230 lux'
@@ -588,7 +691,7 @@ export const exposureTable = [
 		'aperture'        : '8.97865907',
 		'apertureDisplay' : 'f/9',
 		'shutter'         : '80.61631872',
-		'shutterDisplay'  : '00h 01m 21s',
+		'shutterDisplay'  : '01m 21s',
 		'nd'              : '',
 		'luminance'       : '201.58736800',
 		'luminanceDisplay': '210 lux'
@@ -600,7 +703,7 @@ export const exposureTable = [
 		'aperture'        : '8.00000000',
 		'apertureDisplay' : 'f/8',
 		'shutter'         : '64.00000000',
-		'shutterDisplay'  : '00h 01m 04s',
+		'shutterDisplay'  : '01m 04s',
 		'nd'              : '',
 		'luminance'       : '160.00000000',
 		'luminanceDisplay': '160 lux'
@@ -612,7 +715,7 @@ export const exposureTable = [
 		'aperture'        : '7.12801316',
 		'apertureDisplay' : 'f/7.1',
 		'shutter'         : '50.80857158',
-		'shutterDisplay'  : '00h 00m 51s',
+		'shutterDisplay'  : '51s',
 		'nd'              : '',
 		'luminance'       : '126.99208420',
 		'luminanceDisplay': '130 lux'
@@ -624,7 +727,7 @@ export const exposureTable = [
 		'aperture'        : '6.72717132',
 		'apertureDisplay' : 'f/6.7',
 		'shutter'         : '45.25483400',
-		'shutterDisplay'  : '00h 00m 45s',
+		'shutterDisplay'  : '45s',
 		'nd'              : '',
 		'luminance'       : '113.13708500',
 		'luminanceDisplay': '120 lux'
@@ -636,7 +739,7 @@ export const exposureTable = [
 		'aperture'        : '6.34887072',
 		'apertureDisplay' : 'f/6.3',
 		'shutter'         : '40.30815936',
-		'shutterDisplay'  : '00h 00m 40s',
+		'shutterDisplay'  : '40s',
 		'nd'              : '',
 		'luminance'       : '100.79368400',
 		'luminanceDisplay': '110 lux'
@@ -648,7 +751,7 @@ export const exposureTable = [
 		'aperture'        : '5.65685425',
 		'apertureDisplay' : 'f/5.6',
 		'shutter'         : '32.00000000',
-		'shutterDisplay'  : '00h 00m 32s',
+		'shutterDisplay'  : '32s',
 		'nd'              : '',
 		'luminance'       : '80.00000000',
 		'luminanceDisplay': '80 lux'
@@ -660,7 +763,7 @@ export const exposureTable = [
 		'aperture'        : '5.04026644',
 		'apertureDisplay' : 'f/5.0',
 		'shutter'         : '25.40428579',
-		'shutterDisplay'  : '00h 00m 25s',
+		'shutterDisplay'  : '25s',
 		'nd'              : '',
 		'luminance'       : '63.49604210',
 		'luminanceDisplay': '64 lux'
@@ -672,7 +775,7 @@ export const exposureTable = [
 		'aperture'        : '4.75682846',
 		'apertureDisplay' : 'f/4.8',
 		'shutter'         : '22.62741700',
-		'shutterDisplay'  : '00h 00m 23s',
+		'shutterDisplay'  : '23s',
 		'nd'              : '',
 		'luminance'       : '56.56854250',
 		'luminanceDisplay': '57 lux'
@@ -684,7 +787,7 @@ export const exposureTable = [
 		'aperture'        : '4.48932954',
 		'apertureDisplay' : 'f/4.5',
 		'shutter'         : '20.15407968',
-		'shutterDisplay'  : '00h 00m 20s',
+		'shutterDisplay'  : '20s',
 		'nd'              : '',
 		'luminance'       : '50.39684200',
 		'luminanceDisplay': '51 lux'
@@ -696,7 +799,7 @@ export const exposureTable = [
 		'aperture'        : '4.00000000',
 		'apertureDisplay' : 'f/4',
 		'shutter'         : '16.00000000',
-		'shutterDisplay'  : '00h 00m 16s',
+		'shutterDisplay'  : '16s',
 		'nd'              : '',
 		'luminance'       : '40.00000000',
 		'luminanceDisplay': '40 lux'
@@ -708,7 +811,7 @@ export const exposureTable = [
 		'aperture'        : '3.56400658',
 		'apertureDisplay' : 'f/3.5',
 		'shutter'         : '12.70214289',
-		'shutterDisplay'  : '00h 00m 13s',
+		'shutterDisplay'  : '13s',
 		'nd'              : '',
 		'luminance'       : '31.74802100',
 		'luminanceDisplay': '32 lux'
@@ -720,7 +823,7 @@ export const exposureTable = [
 		'aperture'        : '3.36358566',
 		'apertureDisplay' : 'f/3.3',
 		'shutter'         : '11.31370850',
-		'shutterDisplay'  : '00h 00m 11s',
+		'shutterDisplay'  : '11s',
 		'nd'              : '',
 		'luminance'       : '28.28427120',
 		'luminanceDisplay': '29 lux'
@@ -732,7 +835,7 @@ export const exposureTable = [
 		'aperture'        : '3.17443536',
 		'apertureDisplay' : 'f/3.2',
 		'shutter'         : '10.07703984',
-		'shutterDisplay'  : '00h 00m 10s',
+		'shutterDisplay'  : '10s',
 		'nd'              : '',
 		'luminance'       : '25.19842100',
 		'luminanceDisplay': '26 lux'
@@ -744,7 +847,7 @@ export const exposureTable = [
 		'aperture'        : '2.82842712',
 		'apertureDisplay' : 'f/2.8',
 		'shutter'         : '8.00000000',
-		'shutterDisplay'  : '00h 00m 08s',
+		'shutterDisplay'  : '08s',
 		'nd'              : '',
 		'luminance'       : '20.00000000',
 		'luminanceDisplay': '20 lux'
@@ -756,7 +859,7 @@ export const exposureTable = [
 		'aperture'        : '2.52013322',
 		'apertureDisplay' : 'f/2.5',
 		'shutter'         : '6.35107145',
-		'shutterDisplay'  : '00h 00m 06s',
+		'shutterDisplay'  : '06s',
 		'nd'              : '',
 		'luminance'       : '15.87401050',
 		'luminanceDisplay': '16 lux'
@@ -768,7 +871,7 @@ export const exposureTable = [
 		'aperture'        : '2.37841423',
 		'apertureDisplay' : 'f/2.4',
 		'shutter'         : '5.65685425',
-		'shutterDisplay'  : '00h 00m 06s',
+		'shutterDisplay'  : '06s',
 		'nd'              : '',
 		'luminance'       : '14.14213560',
 		'luminanceDisplay': '15 lux'
@@ -780,7 +883,7 @@ export const exposureTable = [
 		'aperture'        : '2.24466477',
 		'apertureDisplay' : 'f/2.2',
 		'shutter'         : '5.03851992',
-		'shutterDisplay'  : '00h 00m 05s',
+		'shutterDisplay'  : '05s',
 		'nd'              : '',
 		'luminance'       : '12.59921050',
 		'luminanceDisplay': '13 lux'
@@ -792,7 +895,7 @@ export const exposureTable = [
 		'aperture'        : '2.00000000',
 		'apertureDisplay' : 'f/2',
 		'shutter'         : '4.00000000',
-		'shutterDisplay'  : '00h 00m 04s',
+		'shutterDisplay'  : '04s',
 		'nd'              : '',
 		'luminance'       : '10.00000000',
 		'luminanceDisplay': '10 lux'
@@ -804,7 +907,7 @@ export const exposureTable = [
 		'aperture'        : '1.78200329',
 		'apertureDisplay' : 'f/1.8',
 		'shutter'         : '3.17553572',
-		'shutterDisplay'  : '00h 00m 03s',
+		'shutterDisplay'  : '03s',
 		'nd'              : '',
 		'luminance'       : '7.93700530',
 		'luminanceDisplay': '8 lux'
@@ -816,7 +919,7 @@ export const exposureTable = [
 		'aperture'        : '1.68179283',
 		'apertureDisplay' : 'f/1.7',
 		'shutter'         : '2.82842712',
-		'shutterDisplay'  : '00h 00m 03s',
+		'shutterDisplay'  : '03s',
 		'nd'              : '',
 		'luminance'       : '7.07106780',
 		'luminanceDisplay': '7.1 lux'
@@ -828,7 +931,7 @@ export const exposureTable = [
 		'aperture'        : '1.58721768',
 		'apertureDisplay' : 'f/1.6',
 		'shutter'         : '2.51925996',
-		'shutterDisplay'  : '00h 00m 03s',
+		'shutterDisplay'  : '03s',
 		'nd'              : '',
 		'luminance'       : '6.29960520',
 		'luminanceDisplay': '6.3 lux'
@@ -840,7 +943,7 @@ export const exposureTable = [
 		'aperture'        : '1.41421356',
 		'apertureDisplay' : 'f/1.4',
 		'shutter'         : '2.00000000',
-		'shutterDisplay'  : '00h 00m 02s',
+		'shutterDisplay'  : '02s',
 		'nd'              : '',
 		'luminance'       : '5.00000000',
 		'luminanceDisplay': '5 lux'
@@ -852,7 +955,7 @@ export const exposureTable = [
 		'aperture'        : '1.26006661',
 		'apertureDisplay' : 'f/1.2',
 		'shutter'         : '1.58776786',
-		'shutterDisplay'  : '00h 00m 02s',
+		'shutterDisplay'  : '02s',
 		'nd'              : '',
 		'luminance'       : '3.96850260',
 		'luminanceDisplay': '4 lux'
@@ -864,7 +967,7 @@ export const exposureTable = [
 		'aperture'        : '1.18920712',
 		'apertureDisplay' : 'f/1.2',
 		'shutter'         : '1.41421356',
-		'shutterDisplay'  : '00h 00m 01s',
+		'shutterDisplay'  : '01s',
 		'nd'              : '',
 		'luminance'       : '3.53553390',
 		'luminanceDisplay': '3.6 lux'
@@ -876,7 +979,7 @@ export const exposureTable = [
 		'aperture'        : '1.12233238',
 		'apertureDisplay' : 'f/1.1',
 		'shutter'         : '1.25962998',
-		'shutterDisplay'  : '00h 00m 01s',
+		'shutterDisplay'  : '01s',
 		'nd'              : '',
 		'luminance'       : '3.14980260',
 		'luminanceDisplay': '3.2 lux'
@@ -888,7 +991,7 @@ export const exposureTable = [
 		'aperture'        : '1.00000000',
 		'apertureDisplay' : 'f/1',
 		'shutter'         : '1.00000000',
-		'shutterDisplay'  : '00h 00m 01s',
+		'shutterDisplay'  : '01s',
 		'nd'              : '0',
 		'luminance'       : '2.50000000',
 		'luminanceDisplay': '2.5 lux'
